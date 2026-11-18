@@ -1,0 +1,7 @@
+Nome: Luan de Meneses Lamb Maciel
+Idade: 24
+E-mail: luan69meneses@gmail.com
+
+Projeto: Git e controle de versão
+
+Aula 2: Aprendendo sobre branches e Git diff.
